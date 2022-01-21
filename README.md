@@ -11,7 +11,9 @@
 First, run the development server:
 
 ```bash
-* Run npm install or yarn.
+ Run npm install 
+ #or
+ Run yarn
 ```
 
 ```bash
