@@ -24,6 +24,7 @@ export default function Sectiontwo() {
         sx={{ opacity: "0.96" }}
       >
         <Box
+          height="100%"
           display="flex"
           flexDirection={{ xs: "column", md: "column", lg: "row" }}
           justifyContent="space-between"
